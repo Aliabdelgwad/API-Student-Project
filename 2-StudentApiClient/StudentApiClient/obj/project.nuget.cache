@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "SXhWZpyGAUQ=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\YAR\\Desktop\\Student API Project With DB (1)\\02 StudentApiClient with DB\\StudentApiClient\\StudentApiClient.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\YAR\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
